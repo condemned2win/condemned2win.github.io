@@ -2,12 +2,6 @@
 layout: default
 ---
 
-## Condemned2Win Publications Catalog
-
-| title | author | price |
-|:------|:-------|:------|
-| [A Basic Understanding of the Communist Party of China](https://www.lulu.com/shop/communist-party-of-china/a-basic-understanding-of-the-communist-party-of-china/paperback/product-kvnwq77.html) | Communist Party of China | $10 |
-
 ## Red Papers
 
 | title | author | price |
@@ -21,6 +15,7 @@ layout: default
 |:------|:-------|:------|
 | [Araling Aktibista (ARAK) – Activist Study](https://www.lulu.com/shop/communist-party-of-the-philippines/araling-aktibista-arak-activist-study/paperback/product-rmdw88w.html) | Communist Party of the Philippines | $6 |
 | [Selected Writings on the Mass Line](https://www.lulu.com/shop/condemned-2-win-publications/selected-writings-on-the-mass-line/paperback/product-nvvme8n.html) | Various Artists | $6 |
+| [A Basic Understanding of the Communist Party of China](https://www.lulu.com/shop/communist-party-of-china/a-basic-understanding-of-the-communist-party-of-china/paperback/product-kvnwq77.html) | Communist Party of China | $10 |
 
 ## Classics Collection
 
