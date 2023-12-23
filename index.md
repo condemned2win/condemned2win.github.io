@@ -6,7 +6,7 @@ layout: default
 
 | title | author | price |
 |:------|:-------|:------|
-| [A Basic Understanding of the Communist Party of China](https://www.lulu.com/) | CPCh | $8.66 |
+| [A Basic Understanding of the Communist Party of China](https://www.lulu.com/) | Communist Party of China | $8.66 |
 
 ## Red Papers
 
